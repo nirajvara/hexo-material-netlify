@@ -9,4 +9,4 @@ Hi,
 
 Hexo Blog test
 
-![](/images/uploads/wolf-mandala.jpg)
+![null](/images/uploads/wolf-mandala.jpg)
