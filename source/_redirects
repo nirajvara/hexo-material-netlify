@@ -1,7 +1,7 @@
 
-/           /en        302  Language=en
-/about      /en/about  302  Language=en
-/archives/* /en/archives/:splat 302 Language=en
+#/           /en        302  Language=en
+#/about      /en/about  302  Language=en
+#/archives/* /en/archives/:splat 302 Language=en
 
 
 
